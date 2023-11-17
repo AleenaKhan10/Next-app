@@ -5,7 +5,7 @@ import UserTable from './UserTable'
 const UserPage = async () => {
   return (
     <>
-        <h2>Users</h2>
+        <h1>Users</h1>
         <UserTable/>
     </>
   )

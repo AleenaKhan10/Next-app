@@ -6,6 +6,7 @@ const NavBar = () => {
     <div className='flex bg-slate-200 p-5'>
         <Link href='/' className='mr-5'> Next.js </Link>
         <Link href='/users'> User </Link>
+        <Link href='/admin'> Admin </Link>
     </div>
   )
 }

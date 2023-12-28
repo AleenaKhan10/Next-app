@@ -4,7 +4,8 @@ export function GET(request: NextRequest) {
     return NextResponse.json([
         {id : 1, name : 'Alia'},
         {id : 2, name : 'Hassan'},
-        {id : 2, name : 'Umer'},
+        {id : 3, name : 'Umer'},
+        {id : 4, name : 'Hassan'},
     ])
 }
 
